@@ -12,7 +12,7 @@ This is a project on character consistency generation using stable diffusion, ai
 |       character       | swimming in the pool | reading books in the library |dancing in the bar|running in the street|
 | ![c3](assert/c3.PNG) | ![c3-1](assert/c3-1.png) | ![c3-2](assert/c3-2.PNG) |![c3-3](assert/c3-3.PNG)|![c3-4](assert/c3-4.PNG)|
 | character | flying in the sky | swimming in the pool |sitting on the bench|reading a book in the library|
-| ![c4](/Users/ww/Desktop/Comic-AI/Character-Consistency/assert/c4.png) | ![c4-1](assert/c4-1.PNG) | ![c4-2](assert/c4-2.PNG) |![c4-3](assert/c4-3.PNG)|![c4-4](assert/c4-4.PNG)|
+| ![c4](assert/c4.png) | ![c4-1](assert/c4-1.PNG) | ![c4-2](assert/c4-2.PNG) |![c4-3](assert/c4-3.PNG)|![c4-4](assert/c4-4.PNG)|
 
 
 
