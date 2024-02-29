@@ -8,7 +8,7 @@ This is a project on character consistency generation using stable diffusion, ai
 |:--:|:--:|:--:|:--:|:--:|
 | ![](assert/c1.webp) | ![](assert/c1-1.webp) | ![](assert/c1-2.webp) | ![](assert/c1-3.webp) |![c1-1](assert/c1-4.webp)|
 |       character       | playing basketball on the playground | playing on the grass with a dog |dancing in the street|sitting on the swimming pool|
-| ![c2](assert/c2.webp) |      ![c2-1](assert/c2-1.webp)       |    ![c2-2](assert/c2-2.webp)    |![c2-3](/Users/ww/Desktop/Comic-AI/Character-Consistency/assert/c2-3.webp)|![c2-4](/Users/ww/Desktop/Comic-AI/Character-Consistency/assert/c2-4.webp)|
+| ![c2](assert/c2.webp) |      ![c2-1](assert/c2-1.webp)       |    ![c2-2](assert/c2-2.webp)    |![c2-3](assert/c2-3.webp)|![c2-4](assert/c2-4.webp)|
 |       character       | swimming in the pool | reading books in the library |dancing in the bar|running in the street|
 | ![c3](assert/c3.PNG) | ![c3-1](assert/c3-1.png) | ![c3-2](assert/c3-2.PNG) |![c3-3](assert/c3-3.PNG)|![c3-4](assert/c3-4.PNG)|
 | character | flying in the sky | swimming in the pool |sitting on the bench|reading a book in the library|
