@@ -1,5 +1,5 @@
 # Character-Consistency Generation
-This is a project on character consistency generation using stable diffusion, aiming to address the consistency issues of single-character and multi-character in comic production.
+This project is our self-developed character consistency generation algorithm based on stable diffusion, aiming to address the consistency issues of single-character and multi-character in comic production.
 
 
 
