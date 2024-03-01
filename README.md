@@ -22,7 +22,7 @@ This project is our self-developed character consistency generation algorithm ba
 | :--------------------- | :--------------------------- | :------------------------- | :-------------------------------- | :----------------------------------------------- |
 | ![c5](assert/c5.png)   | ![c5-1](assert/c5-1.png)     | ![c5-2](assert/c5-2.png)   | ![c5-3](assert/c5-3.png)          | ![c5-3](assert/c5-4.png)                         |
 | characters             | taking a walk by the seaside | sitting on the bench       | playing in the water              | listening to the sound of the wind in the forest |
-| ![c88](assert/c88.png) | ![c88-1](assert/c88-1.PNG)   | ![c88-2](assert/c88-2.PNG) | ![c88-3](assert/c88-3.PNG)        | ![c88-4](assert/c88-4.PNG)                       |
+| ![c88](assert/c88.png) | ![c88-1](assert/c88-1.png)   | ![c88-2](assert/c88-2.png) | ![c88-3](assert/c88-3.png)        | ![c88-4](assert/c88-4.png)                       |
 | characters             | dancing in the street        | drinking wine in the bar   | eating in the garden              | fight with each other                            |
 | ![c7](assert/c7.PNG)   | ![c7-1](assert/c7-1.png)     | ![c7-2](assert/c7-2.PNG)   | ![c7-3](assert/c7-3.png)          | ![c7-4](assert/c7-4.png)                         |
 
